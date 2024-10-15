@@ -4,5 +4,5 @@ export default {
       outDir: 'dist',
   },
   publicDir: 'public',
-  base: '/cheatsheet/dist/'
+  base: '/arcgis-js-vscode-snippets/cheatsheet/dist/'
 } 
